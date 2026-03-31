@@ -1,0 +1,34 @@
+[
+    {
+        "id": "prod-web-01",
+        "instance_id": "i-0cda6d91a3c93f27a"
+    },
+    {
+        "id": "prod-web-02",
+        "instance_id": "i-0cda6d91a3c93f27a"
+    },
+    {
+        "id": "prod-api-01",
+        "instance_id": "i-0cda6d91a3c93f27a"
+    },
+    {
+        "id": "prod-db-01",
+        "instance_id": "i-0cda6d91a3c93f27a"
+    },
+    {
+        "id": "prod-cache-01",
+        "instance_id": "i-0cda6d91a3c93f27a"
+    },
+    {
+        "id": "prod-worker-01",
+        "instance_id": "i-0cda6d91a3c93f27a"
+    },
+    {
+        "id": "prod-lb-01",
+        "instance_id": "i-0cda6d91a3c93f27a"
+    },
+    {
+        "id": "staging-web-01",
+        "instance_id": "i-0cda6d91a3c93f27a"
+    }
+]
